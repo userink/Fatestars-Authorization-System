@@ -1,7 +1,7 @@
 # Fatestars-Authorization-System
 Fatestars-Authorization-System
 # Fatestars-Authorization-System-Demo
-- [Official demo](https://guide-page.demo.fatestars.com/)
+- [Official demo](https://authorization.system.fatestars.com/)
 > Users are welcome to contact me to contribute to your website！
 
 > Contact me:1594800175@qq.com
