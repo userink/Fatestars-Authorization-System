@@ -6,11 +6,12 @@ Fatestars-Authorization-System
 
 > Contact me:1594800175@qq.com
 # Fatestars-Authorization-System-Function
-- Weather forecast
-- Two-way engine
-- Full screen engine
+- Service management
+- Step management
+- Project management
 - Beautiful multi-page
-- NetEase Cloud Top Chart Music Play
+- Question management
+- Domain name authorization management
 # Fatestars-Authorization-System-Preview
 ![](https://s3.bmp.ovh/imgs/2021/08/a93bce34d90710f5.png)
 # Fatestars-Authorization-System-Backstage
